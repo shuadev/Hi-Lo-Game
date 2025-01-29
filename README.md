@@ -9,7 +9,7 @@ A Python-based command-line game where the user tries to guess a randomly genera
 - [How to Play](#how-to-play)
 - [Game Rules](#game-rules)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
